@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "SP01",
+    "name": "双澜礁",
+    "x": 0.246,
+    "y": 0.41,
+    "shoreOrientation": 326,
+    "depth": 20.1,
+    "meanLevel": 2.85,
+    "weatherSeed": 686661059,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 2.907,
+        "phaseLag": 82.8
+      },
+      {
+        "name": "S2",
+        "amplitude": 1.039,
+        "phaseLag": 348.1
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.591,
+        "phaseLag": 235.5
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.273,
+        "phaseLag": 297.2
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.101,
+        "phaseLag": 106.4
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.071,
+        "phaseLag": 356.5
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.033,
+        "phaseLag": 318.7
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.015,
+        "phaseLag": 171.8
+      }
+    ],
+    "formFactor": 0.044,
+    "tideType": "semidiurnal"
+  },
+  {
+    "id": "SP02",
+    "name": "银沙湾",
+    "x": 0.102,
+    "y": 0.292,
+    "shoreOrientation": 140,
+    "depth": 24,
+    "meanLevel": 2.6,
+    "weatherSeed": 398260740,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 2.187,
+        "phaseLag": 221.7
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.75,
+        "phaseLag": 277.8
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.44,
+        "phaseLag": 46.7
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.159,
+        "phaseLag": 294.7
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.235,
+        "phaseLag": 91.3
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.147,
+        "phaseLag": 357.8
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.074,
+        "phaseLag": 93.1
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.03,
+        "phaseLag": 244.9
+      }
+    ],
+    "formFactor": 0.13,
+    "tideType": "semidiurnal"
+  },
+  {
+    "id": "SP03",
+    "name": "铁砧屿",
+    "x": 0.26,
+    "y": 0.173,
+    "shoreOrientation": 20,
+    "depth": 27.6,
+    "meanLevel": 2.61,
+    "weatherSeed": 16874291,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 1.714,
+        "phaseLag": 245.7
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.573,
+        "phaseLag": 86.4
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.342,
+        "phaseLag": 32.9
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.131,
+        "phaseLag": 0.6
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.148,
+        "phaseLag": 210
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.111,
+        "phaseLag": 95.4
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.052,
+        "phaseLag": 162.8
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.021,
+        "phaseLag": 72.3
+      }
+    ],
+    "formFactor": 0.113,
+    "tideType": "semidiurnal"
+  },
+  {
+    "id": "SP04",
+    "name": "白鹭门",
+    "x": 0.09,
+    "y": 0.381,
+    "shoreOrientation": 135,
+    "depth": 29.8,
+    "meanLevel": 2.46,
+    "weatherSeed": 13952532,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 1.836,
+        "phaseLag": 10.8
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.639,
+        "phaseLag": 165.4
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.419,
+        "phaseLag": 225
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.178,
+        "phaseLag": 300.7
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.134,
+        "phaseLag": 338.1
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.213,
+        "phaseLag": 22.8
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.047,
+        "phaseLag": 271.3
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.042,
+        "phaseLag": 357.7
+      }
+    ],
+    "formFactor": 0.14,
+    "tideType": "semidiurnal"
+  },
+  {
+    "id": "SP05",
+    "name": "青潮角",
+    "x": 0.073,
+    "y": 0.21,
+    "shoreOrientation": 273,
+    "depth": 9.2,
+    "meanLevel": 2.74,
+    "weatherSeed": 130114310,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 2.916,
+        "phaseLag": 311.2
+      },
+      {
+        "name": "S2",
+        "amplitude": 1.026,
+        "phaseLag": 125
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.644,
+        "phaseLag": 200.1
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.224,
+        "phaseLag": 52
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.24,
+        "phaseLag": 166.8
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.191,
+        "phaseLag": 39.7
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.074,
+        "phaseLag": 270.1
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.033,
+        "phaseLag": 75.9
+      }
+    ],
+    "formFactor": 0.109,
+    "tideType": "semidiurnal"
+  },
+  {
+    "id": "SP06",
+    "name": "听涛码头",
+    "x": 0.12,
+    "y": 0.496,
+    "shoreOrientation": 39,
+    "depth": 15.7,
+    "meanLevel": 2.06,
+    "weatherSeed": 683540850,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 1.848,
+        "phaseLag": 301.7
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.508,
+        "phaseLag": 261.7
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.354,
+        "phaseLag": 58.9
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.159,
+        "phaseLag": 263.6
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.267,
+        "phaseLag": 241.3
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.088,
+        "phaseLag": 52.5
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.09,
+        "phaseLag": 279.1
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.016,
+        "phaseLag": 194.4
+      }
+    ],
+    "formFactor": 0.151,
+    "tideType": "semidiurnal"
+  },
+  {
+    "id": "SP07",
+    "name": "沉箱湾",
+    "x": 0.199,
+    "y": 0.252,
+    "shoreOrientation": 78,
+    "depth": 37.9,
+    "meanLevel": 2.47,
+    "weatherSeed": 642979528,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 2.202,
+        "phaseLag": 315.2
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.641,
+        "phaseLag": 340.2
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.415,
+        "phaseLag": 74.5
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.207,
+        "phaseLag": 125.4
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.137,
+        "phaseLag": 128.4
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.21,
+        "phaseLag": 205.2
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.049,
+        "phaseLag": 279.6
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.039,
+        "phaseLag": 117.4
+      }
+    ],
+    "formFactor": 0.122,
+    "tideType": "semidiurnal"
+  },
+  {
+    "id": "SP08",
+    "name": "黑石排",
+    "x": 0.109,
+    "y": 0.122,
+    "shoreOrientation": 353,
+    "depth": 36,
+    "meanLevel": 2.72,
+    "weatherSeed": 180573161,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 3.093,
+        "phaseLag": 341.7
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.967,
+        "phaseLag": 220.8
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.664,
+        "phaseLag": 9.6
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.26,
+        "phaseLag": 109.3
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.085,
+        "phaseLag": 11.5
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.193,
+        "phaseLag": 199.6
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.028,
+        "phaseLag": 35.7
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.038,
+        "phaseLag": 234.8
+      }
+    ],
+    "formFactor": 0.068,
+    "tideType": "semidiurnal"
+  },
+  {
+    "id": "SP09",
+    "name": "月牙滩",
+    "x": 0.245,
+    "y": 0.39,
+    "shoreOrientation": 315,
+    "depth": 22.9,
+    "meanLevel": 2.87,
+    "weatherSeed": 945871166,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 2.669,
+        "phaseLag": 353.1
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.75,
+        "phaseLag": 115.2
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.537,
+        "phaseLag": 92.5
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.236,
+        "phaseLag": 50.7
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.233,
+        "phaseLag": 74.6
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.071,
+        "phaseLag": 87.8
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.075,
+        "phaseLag": 304.9
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.014,
+        "phaseLag": 223.9
+      }
+    ],
+    "formFactor": 0.089,
+    "tideType": "semidiurnal"
+  },
+  {
+    "id": "SP10",
+    "name": "灯塔脚",
+    "x": 0.139,
+    "y": 0.468,
+    "shoreOrientation": 133,
+    "depth": 28.2,
+    "meanLevel": 2.22,
+    "weatherSeed": 595871424,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 2.155,
+        "phaseLag": 224.1
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.73,
+        "phaseLag": 88.4
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.376,
+        "phaseLag": 15.4
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.201,
+        "phaseLag": 153.6
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.205,
+        "phaseLag": 131.8
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.133,
+        "phaseLag": 101
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.069,
+        "phaseLag": 68
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.023,
+        "phaseLag": 175.6
+      }
+    ],
+    "formFactor": 0.117,
+    "tideType": "semidiurnal"
+  },
+  {
+    "id": "SP11",
+    "name": "回澜渡",
+    "x": 0.137,
+    "y": 0.334,
+    "shoreOrientation": 15,
+    "depth": 26.7,
+    "meanLevel": 2.8,
+    "weatherSeed": 92212750,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 2.988,
+        "phaseLag": 312.4
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.926,
+        "phaseLag": 114.8
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.68,
+        "phaseLag": 71.1
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.312,
+        "phaseLag": 143.8
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.265,
+        "phaseLag": 296.1
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.228,
+        "phaseLag": 351.4
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.086,
+        "phaseLag": 42.6
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.045,
+        "phaseLag": 351.2
+      }
+    ],
+    "formFactor": 0.126,
+    "tideType": "semidiurnal"
+  },
+  {
+    "id": "SP12",
+    "name": "碎浪岬",
+    "x": 0.192,
+    "y": 0.404,
+    "shoreOrientation": 16,
+    "depth": 16.7,
+    "meanLevel": 2.88,
+    "weatherSeed": 925305267,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 3.051,
+        "phaseLag": 300.8
+      },
+      {
+        "name": "S2",
+        "amplitude": 1.032,
+        "phaseLag": 188.1
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.535,
+        "phaseLag": 329.7
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.282,
+        "phaseLag": 249.2
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.132,
+        "phaseLag": 290.8
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.187,
+        "phaseLag": 34.9
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.047,
+        "phaseLag": 313
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.034,
+        "phaseLag": 274
+      }
+    ],
+    "formFactor": 0.078,
+    "tideType": "semidiurnal"
+  },
+  {
+    "id": "SP13",
+    "name": "雾岚水道",
+    "x": 0.566,
+    "y": 0.73,
+    "shoreOrientation": 52,
+    "depth": 23.7,
+    "meanLevel": 2.23,
+    "weatherSeed": 938152172,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 1.062,
+        "phaseLag": 341.9
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.268,
+        "phaseLag": 335
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.212,
+        "phaseLag": 248.2
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.095,
+        "phaseLag": 86.7
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.361,
+        "phaseLag": 160.8
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.54,
+        "phaseLag": 93.2
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.127,
+        "phaseLag": 176.9
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.097,
+        "phaseLag": 333.7
+      }
+    ],
+    "formFactor": 0.677,
+    "tideType": "mixed"
+  },
+  {
+    "id": "SP14",
+    "name": "赤屿东礁",
+    "x": 0.489,
+    "y": 0.57,
+    "shoreOrientation": 158,
+    "depth": 29.9,
+    "meanLevel": 1.89,
+    "weatherSeed": 468540593,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 0.961,
+        "phaseLag": 258.6
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.27,
+        "phaseLag": 226.8
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.151,
+        "phaseLag": 18.4
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.083,
+        "phaseLag": 52.9
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.946,
+        "phaseLag": 215.9
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.376,
+        "phaseLag": 265.6
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.331,
+        "phaseLag": 9.8
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.072,
+        "phaseLag": 55.1
+      }
+    ],
+    "formFactor": 1.074,
+    "tideType": "mixed"
+  },
+  {
+    "id": "SP15",
+    "name": "黄礁盘",
+    "x": 0.543,
+    "y": 0.583,
+    "shoreOrientation": 266,
+    "depth": 15,
+    "meanLevel": 2.95,
+    "weatherSeed": 825271290,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 1.048,
+        "phaseLag": 22.5
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.336,
+        "phaseLag": 354.9
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.21,
+        "phaseLag": 264.7
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.069,
+        "phaseLag": 275.3
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.837,
+        "phaseLag": 9
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.801,
+        "phaseLag": 130.5
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.291,
+        "phaseLag": 52.5
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.165,
+        "phaseLag": 264.1
+      }
+    ],
+    "formFactor": 1.184,
+    "tideType": "mixed"
+  },
+  {
+    "id": "SP16",
+    "name": "孤星台",
+    "x": 0.578,
+    "y": 0.734,
+    "shoreOrientation": 238,
+    "depth": 35,
+    "meanLevel": 1.74,
+    "weatherSeed": 881363742,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 0.451,
+        "phaseLag": 162.9
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.142,
+        "phaseLag": 143
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.072,
+        "phaseLag": 181.7
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.038,
+        "phaseLag": 111.3
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.797,
+        "phaseLag": 177.5
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.726,
+        "phaseLag": 128.5
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.245,
+        "phaseLag": 34.7
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.132,
+        "phaseLag": 27.8
+      }
+    ],
+    "formFactor": 2.568,
+    "tideType": "mixed"
+  },
+  {
+    "id": "SP17",
+    "name": "风信子湾",
+    "x": 0.572,
+    "y": 0.612,
+    "shoreOrientation": 203,
+    "depth": 33.9,
+    "meanLevel": 2.6,
+    "weatherSeed": 852349039,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 0.652,
+        "phaseLag": 223.2
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.166,
+        "phaseLag": 66.3
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.116,
+        "phaseLag": 209.6
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.059,
+        "phaseLag": 55.1
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.622,
+        "phaseLag": 133.8
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.377,
+        "phaseLag": 41
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.219,
+        "phaseLag": 105.4
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.077,
+        "phaseLag": 177.9
+      }
+    ],
+    "formFactor": 1.221,
+    "tideType": "mixed"
+  },
+  {
+    "id": "SP18",
+    "name": "暗流嘴",
+    "x": 0.457,
+    "y": 0.684,
+    "shoreOrientation": 6,
+    "depth": 23.4,
+    "meanLevel": 1.61,
+    "weatherSeed": 230696847,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 0.469,
+        "phaseLag": 138.9
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.141,
+        "phaseLag": 269
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.08,
+        "phaseLag": 68.9
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.035,
+        "phaseLag": 52.8
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.82,
+        "phaseLag": 332.5
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.528,
+        "phaseLag": 103.5
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.257,
+        "phaseLag": 33.1
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.107,
+        "phaseLag": 296.5
+      }
+    ],
+    "formFactor": 2.21,
+    "tideType": "mixed"
+  },
+  {
+    "id": "SP19",
+    "name": "七星排",
+    "x": 0.426,
+    "y": 0.361,
+    "shoreOrientation": 222,
+    "depth": 17.9,
+    "meanLevel": 2.43,
+    "weatherSeed": 51849731,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 0.797,
+        "phaseLag": 36.5
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.216,
+        "phaseLag": 59.9
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.163,
+        "phaseLag": 287
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.062,
+        "phaseLag": 45
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.716,
+        "phaseLag": 274.1
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.666,
+        "phaseLag": 5.6
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.219,
+        "phaseLag": 88.7
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.136,
+        "phaseLag": 257.5
+      }
+    ],
+    "formFactor": 1.364,
+    "tideType": "mixed"
+  },
+  {
+    "id": "SP20",
+    "name": "铜锅湾",
+    "x": 0.435,
+    "y": 0.535,
+    "shoreOrientation": 317,
+    "depth": 38.6,
+    "meanLevel": 2.19,
+    "weatherSeed": 606596426,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 0.632,
+        "phaseLag": 260.5
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.178,
+        "phaseLag": 300
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.116,
+        "phaseLag": 277.2
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.06,
+        "phaseLag": 298.4
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.44,
+        "phaseLag": 229
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.57,
+        "phaseLag": 18.3
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.15,
+        "phaseLag": 217.2
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.104,
+        "phaseLag": 165.1
+      }
+    ],
+    "formFactor": 1.247,
+    "tideType": "mixed"
+  },
+  {
+    "id": "SP21",
+    "name": "暮潮矶",
+    "x": 0.469,
+    "y": 0.647,
+    "shoreOrientation": 95,
+    "depth": 26.5,
+    "meanLevel": 2.24,
+    "weatherSeed": 890032112,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 0.907,
+        "phaseLag": 51.4
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.222,
+        "phaseLag": 271.2
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.147,
+        "phaseLag": 180.6
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.064,
+        "phaseLag": 15.2
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.454,
+        "phaseLag": 314
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.779,
+        "phaseLag": 327.9
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.16,
+        "phaseLag": 282.7
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.148,
+        "phaseLag": 71.6
+      }
+    ],
+    "formFactor": 1.092,
+    "tideType": "mixed"
+  },
+  {
+    "id": "SP22",
+    "name": "横沙尾",
+    "x": 0.583,
+    "y": 0.625,
+    "shoreOrientation": 306,
+    "depth": 38.1,
+    "meanLevel": 1.61,
+    "weatherSeed": 839998113,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 0.96,
+        "phaseLag": 201.3
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.297,
+        "phaseLag": 13.1
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.19,
+        "phaseLag": 35.4
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.069,
+        "phaseLag": 315.1
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.693,
+        "phaseLag": 55.7
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.707,
+        "phaseLag": 331.8
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.227,
+        "phaseLag": 42.1
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.131,
+        "phaseLag": 259.7
+      }
+    ],
+    "formFactor": 1.114,
+    "tideType": "mixed"
+  },
+  {
+    "id": "SP23",
+    "name": "鬼仔石",
+    "x": 0.512,
+    "y": 0.622,
+    "shoreOrientation": 198,
+    "depth": 15.8,
+    "meanLevel": 2.26,
+    "weatherSeed": 378102780,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 1.065,
+        "phaseLag": 92.2
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.255,
+        "phaseLag": 302.5
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.175,
+        "phaseLag": 351.9
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.1,
+        "phaseLag": 96.5
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.82,
+        "phaseLag": 94
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.553,
+        "phaseLag": 346.4
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.245,
+        "phaseLag": 54.7
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.097,
+        "phaseLag": 217.5
+      }
+    ],
+    "formFactor": 1.04,
+    "tideType": "mixed"
+  },
+  {
+    "id": "SP24",
+    "name": "望洋崖",
+    "x": 0.532,
+    "y": 0.384,
+    "shoreOrientation": 359,
+    "depth": 8,
+    "meanLevel": 1.68,
+    "weatherSeed": 938115654,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 0.928,
+        "phaseLag": 319.1
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.275,
+        "phaseLag": 72.5
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.158,
+        "phaseLag": 207.9
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.068,
+        "phaseLag": 49.9
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.493,
+        "phaseLag": 88.6
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.635,
+        "phaseLag": 209.2
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.17,
+        "phaseLag": 28.7
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.117,
+        "phaseLag": 263.8
+      }
+    ],
+    "formFactor": 0.938,
+    "tideType": "mixed"
+  },
+  {
+    "id": "SP25",
+    "name": "逐日湾",
+    "x": 0.764,
+    "y": 0.439,
+    "shoreOrientation": 70,
+    "depth": 39.9,
+    "meanLevel": 2.7,
+    "weatherSeed": 529071005,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 0.227,
+        "phaseLag": 134.5
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.055,
+        "phaseLag": 2.8
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.044,
+        "phaseLag": 140.8
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.018,
+        "phaseLag": 274.8
+      },
+      {
+        "name": "K1",
+        "amplitude": 1.19,
+        "phaseLag": 26.2
+      },
+      {
+        "name": "O1",
+        "amplitude": 1.153,
+        "phaseLag": 257.3
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.361,
+        "phaseLag": 92.3
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.211,
+        "phaseLag": 202.4
+      }
+    ],
+    "formFactor": 8.309,
+    "tideType": "diurnal"
+  },
+  {
+    "id": "SP26",
+    "name": "长汐角",
+    "x": 0.723,
+    "y": 0.152,
+    "shoreOrientation": 340,
+    "depth": 24.4,
+    "meanLevel": 2.84,
+    "weatherSeed": 176022944,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 0.294,
+        "phaseLag": 125.7
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.069,
+        "phaseLag": 97.1
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.049,
+        "phaseLag": 210.1
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.021,
+        "phaseLag": 88.6
+      },
+      {
+        "name": "K1",
+        "amplitude": 1.331,
+        "phaseLag": 21.3
+      },
+      {
+        "name": "O1",
+        "amplitude": 1.093,
+        "phaseLag": 201.2
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.46,
+        "phaseLag": 273.7
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.223,
+        "phaseLag": 358.7
+      }
+    ],
+    "formFactor": 6.678,
+    "tideType": "diurnal"
+  },
+  {
+    "id": "SP27",
+    "name": "金轮滩",
+    "x": 0.739,
+    "y": 0.281,
+    "shoreOrientation": 249,
+    "depth": 15.1,
+    "meanLevel": 2.8,
+    "weatherSeed": 146402424,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 0.274,
+        "phaseLag": 71
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.06,
+        "phaseLag": 218.1
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.052,
+        "phaseLag": 75.1
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.019,
+        "phaseLag": 162.5
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.733,
+        "phaseLag": 200.3
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.978,
+        "phaseLag": 327.4
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.256,
+        "phaseLag": 45.4
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.178,
+        "phaseLag": 278.4
+      }
+    ],
+    "formFactor": 5.123,
+    "tideType": "diurnal"
+  },
+  {
+    "id": "SP28",
+    "name": "眠月礁",
+    "x": 0.921,
+    "y": 0.386,
+    "shoreOrientation": 335,
+    "depth": 22.8,
+    "meanLevel": 2.36,
+    "weatherSeed": 538779501,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 0.122,
+        "phaseLag": 165.6
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.031,
+        "phaseLag": 166.9
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.023,
+        "phaseLag": 113
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.008,
+        "phaseLag": 92.1
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.889,
+        "phaseLag": 182.1
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.773,
+        "phaseLag": 164.6
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.321,
+        "phaseLag": 204.8
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.146,
+        "phaseLag": 196.5
+      }
+    ],
+    "formFactor": 10.863,
+    "tideType": "diurnal"
+  },
+  {
+    "id": "SP29",
+    "name": "单潮屿",
+    "x": 0.86,
+    "y": 0.521,
+    "shoreOrientation": 175,
+    "depth": 39.2,
+    "meanLevel": 2.58,
+    "weatherSeed": 855314930,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 0.29,
+        "phaseLag": 165.3
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.079,
+        "phaseLag": 281.4
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.048,
+        "phaseLag": 48.6
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.017,
+        "phaseLag": 334.8
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.805,
+        "phaseLag": 65
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.715,
+        "phaseLag": 328.3
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.279,
+        "phaseLag": 345.6
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.131,
+        "phaseLag": 143.3
+      }
+    ],
+    "formFactor": 4.119,
+    "tideType": "diurnal"
+  },
+  {
+    "id": "SP30",
+    "name": "回音壁",
+    "x": 0.764,
+    "y": 0.39,
+    "shoreOrientation": 85,
+    "depth": 31.2,
+    "meanLevel": 2.71,
+    "weatherSeed": 810810955,
+    "constituents": [
+      {
+        "name": "M2",
+        "amplitude": 0.171,
+        "phaseLag": 257
+      },
+      {
+        "name": "S2",
+        "amplitude": 0.041,
+        "phaseLag": 130.1
+      },
+      {
+        "name": "N2",
+        "amplitude": 0.033,
+        "phaseLag": 246.2
+      },
+      {
+        "name": "K2",
+        "amplitude": 0.01,
+        "phaseLag": 144.1
+      },
+      {
+        "name": "K1",
+        "amplitude": 0.763,
+        "phaseLag": 89.1
+      },
+      {
+        "name": "O1",
+        "amplitude": 0.615,
+        "phaseLag": 317.7
+      },
+      {
+        "name": "P1",
+        "amplitude": 0.266,
+        "phaseLag": 60.5
+      },
+      {
+        "name": "Q1",
+        "amplitude": 0.124,
+        "phaseLag": 150.8
+      }
+    ],
+    "formFactor": 6.5,
+    "tideType": "diurnal"
+  }
+]
